@@ -19,8 +19,12 @@ header {
   padding: 5px 50px;
 }
 
-.logo {
+.logoheader {
   width: 70px;
+}
+
+.logo {
+  100px
 }
 
 .headerlist li {
