@@ -16,7 +16,7 @@ header {
 }
 
 .headerlogo {
-  padding: 5px 10px;
+  padding: 5px 30px;
 }
 
 .logo {
@@ -38,4 +38,8 @@ header {
 .headerlist a:hover {
   background-color: #29294a;
   color: white;
+}
+
+.h1 {
+  font-size: 24px;
 }
