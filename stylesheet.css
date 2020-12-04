@@ -16,5 +16,26 @@ header {
 }
 
 .headerlogo {
-  height : 70px;
+  padding: 5px 50px;
+}
+
+.logo {
+  width: 70px;
+}
+
+.headerlist li {
+  list-style: none;
+  float: left;
+}
+
+.headerlist a {
+  color: black;
+  font-size: 17px;
+  display: block;
+  padding: 30px 10px;
+}
+
+.headerlist a:hover {
+  background-color: #29294a;
+  color: white;
 }
