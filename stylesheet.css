@@ -7,7 +7,7 @@ a {
 }
 
 header {
-  height: 80px;
+  height: 100px;
   background-color: #29294a;
 }
 
@@ -20,7 +20,7 @@ header {
 }
 
 .logo {
-  width: 70px;
+  width: 80px;
 }
 
 .headerlist li {
@@ -29,7 +29,7 @@ header {
 }
 
 .headerlist a {
-  color: black;
+  color: white;
   font-size: 17px;
   display: block;
   padding: 30px 10px;
@@ -37,7 +37,7 @@ header {
 
 .headerlist a:hover {
   background-color: white;
-  color: #29294a;
+  color: black;
 }
 
 h1 {
