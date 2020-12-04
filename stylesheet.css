@@ -14,3 +14,7 @@ header {
 .headerkiri {
   float: left;
 }
+
+.headerlogo {
+  height : 70px;
+}
