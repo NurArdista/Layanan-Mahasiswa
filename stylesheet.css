@@ -7,7 +7,7 @@ a {
 }
 
 header {
-  height: 800px;
+  height: 80px;
   background-color: #29294a;
 }
 
@@ -16,7 +16,7 @@ header {
 }
 
 .headerlogo {
-  padding: 5px 50px;
+  padding: 5px 30px;
 }
 
 .logo {
