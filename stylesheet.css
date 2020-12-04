@@ -15,38 +15,4 @@ header {
   float: left;
 }
 
-.headerlogo {
-  padding: 5px 80px;
-}
 
-.logo {
-  width: 70px;
-}
-
-.headerlist li {
-  list-style: none;
-  float: left;
-}
-
-.headerlist a {
-  color: black;
-  font-size: 17px;
-  display: block;
-  padding: 30px 10px;
-}
-
-.headerlist a:hover {
-  background-color: white;
-  color: black;
-}
-
-h1 {
-  color: black;
-  text-align: center;
-}
-
-.utama {
-  height: 750px;
-  background-image: url(background.png);
-  background-size:cover;
-}
